@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#6200EE" /> <!-- Kolor wypełnienia -->
+    <corners android:radius="8dp" />  <!-- Zaokrąglenie rogów -->
+    <stroke android:width="2dp" android:color="#3700B3" /> <!-- Obrys -->
+</shape>

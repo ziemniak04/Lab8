@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lecture7</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="signed">Sign Up</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="err_msg_enter_email">Please enter a valid email address.</string>
+    <string name="err_msg_enter_password">Please enter a password.</string>
+    <string name="err_msg_enter_name">Please enter your name.</string>
+    <string name="err_msg_enter_reppassword">Please repeat your password.</string>
+    <string name="err_msg_password_mismatch">Passwords do not match.</string>
+    <string name="register_success">Registration Successful!</string>
+    <string name="button_text">Kliknij tutaj</string>
+    <string name="loginButton">Log in</string>
+    <string name="error_message">Błąd logowania</string>
+    <string name="welcome">Welcome!</string>
+
+
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503599553495",
+    "project_id": "quiz-34d8e",
+    "storage_bucket": "quiz-34d8e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503599553495:android:916333aa5b563816df4992",
+        "android_client_info": {
+          "package_name": "com.example.lecture7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3o497O0OzpfK1WWeQmU9_FgroNKpKJYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
